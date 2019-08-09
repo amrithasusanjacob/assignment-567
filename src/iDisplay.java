@@ -1,4 +1,5 @@
 
-public class iDisplay {
-
+public interface iDisplay 
+{
+	void display();
 }
